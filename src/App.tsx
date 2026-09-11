@@ -801,7 +801,7 @@ export default function App() {
                   className="text-xl font-bold tracking-tight text-white cursor-pointer" 
                   onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
                 >
-                  Abinash.<span className="text-indigo-500">Design</span>
+                  Abinash.<span className="text-indigo-500">Designs</span>
                 </span>
                 
                 <div className="hidden md:flex items-center gap-8 text-sm font-medium text-gray-300">
